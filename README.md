@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Sameer Khan</h1>
 
 <h3 align="left">
-🚀 Java Backend Developer | Java • Spring Boot •
+🚀 Java Full Stack Developer | Java • Spring Boot • Angular • MicroService • REST APIs • MYSQL
 </h3>
 
 <p align="left">
@@ -14,7 +14,7 @@ Passionate about Clean Architecture, REST APIs & Problem Solving.
 ## 🚀 About Me
 
 🎯 Full Stack Developer (Backend Focused)  
-💻 Strong in Java, Spring Boot, & REST APIs  
+💻 Strong in Java, Spring Boot, & REST APIs, MYSQL
 📚 Actively practicing Data Structures & Algorithms  
 🛠 Building production-level backend & full-stack projects  
 🏗 Interested in System Design & Scalable Architecture  
